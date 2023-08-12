@@ -1,5 +1,6 @@
-# Portfolio
-Data sciense projects I did while studying at Yandex.Practicum
+# Portfolio / Портфолио
+Data sciense projects I did while studying at Yandex.Practicum 
+Проекты, которые я сделала во время обучения на курсах Яндекс.Практикум
 
 | |Project name|Project discription|
 |-|------------|-------------------|
