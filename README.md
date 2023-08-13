@@ -8,7 +8,7 @@ Data sciense projects I did while studying at Yandex.Practicum
 |2|Well location selection (regression)|Development of a model to predict oil production revenues based on oil reserves and quality data in three regions|
 |3|Taxi order prediction (time series)|Development of a model that predicts the number of taxi orders for the next hour according to historical data|
 |4|Customer outflow prediction (classification)|Development of a model that predicts customer outflow|
-|5|SQL query examples(SQL)| |
+|5|SQL query examples| |
 
 
 Проекты, которые я сделала во время обучения на курсах Яндекс.Практикум
