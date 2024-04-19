@@ -1,6 +1,6 @@
-# Онлайн-магазин компьютерных игр
+# Онлайн-магаИзин компьютерных игр
 
-Dataset's fields: Name, Platform, Year_of_Release, Genre, NA_sales — sales in North America (in million copies), EU_sales — sales in Europe  (in million copies), JP_sales — sales in Japan (in million copies),
-Other_sales — sales in other countries (in million copies), Critic_Score, User_Score, Rating — ESRB rating.
+Поля датасета: Name, Platform, Year_of_Release, Genre, NA_sales — продажи в Северной Америке (в млн. копий), EU_sales — продажи в Европе  (в млн. копий), JP_sales — продажи в Японии (в млн. копий),
+Other_sales — продаже в других странах (в млн. копий), Critic_Score, User_Score, Rating — рейтинг ESRB.
 
 Проект по анализу исторических данных о продажах игр. Данные получены из открытых источников, включают в себя продажи игр, оценки пользователей и экспертов, жанры и платформы ( информация за 2016 год может быть неполной). Цель проекта - выявить определяющие успешность игры закономерности.
