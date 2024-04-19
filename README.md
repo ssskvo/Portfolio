@@ -1,15 +1,4 @@
-# Portfolio / Портфолио
-Data sciense projects I did while studying at Yandex.Practicum 
-----------------------------------------------------------------------
-
-| |Project name|Project discription|Technology stack|
-|-|------------|-------------------|-------|
-|1|[Computer games's webstore (EDA)](https://github.com/ssskvo/Portfolio/tree/main/Computer%20games's%20store)|Determining the laws affecting the success of games on open historical data about sales of computer games|Pandas, Numpy, Matplotlib, Seaborn, Scipy|
-|2|Well location selection (regression, bootstrap)|Building an ML Model that will predict oil production revenues based on data about oil quality and reserves in three regions|Pandas, Numpy, Matplotlib, Seaborn, Scipy, Sklearn|
-|3|Taxi order prediction (time series)|Building an ML Model that predicts the number of taxi orders for the next hour according to historical data|
-|4|Customer outflow prediction (classification)|Building an ML Model that predicts customer outflow|
-|5|SQL query examples| |
-
+# Портфолио
 
 Проекты, которые я сделала во время обучения на курсах Яндекс.Практикум
 -----------------------------------------------------------------------
